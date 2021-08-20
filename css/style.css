@@ -22,3 +22,9 @@ h3 {
 p {
     margin: 10px;
 }
+/* Navigation */
+#navbar {
+    background: 082032;
+    overflow: auto;
+    color: #fff;
+}
