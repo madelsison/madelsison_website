@@ -31,3 +31,6 @@ p {
     overflow: auto;
     color: #fff;
 }
+#navbar a {
+    color: #fff;
+}
