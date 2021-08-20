@@ -14,7 +14,10 @@ a {
     color: #333;
     text-decoration: none;
 }
-h1,
+h1 {
+    font-family: 'Rollete Qaku Regular';
+    color: orangered;
+}
 h2,
 h3 {
     padding-bottom: 20px;
