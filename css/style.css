@@ -4,3 +4,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+/*global styling*/
+html,
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.5em; /* 1em=2inches*/
+}
