@@ -34,3 +34,7 @@ p {
 #navbar a {
     color: #fff;
 }
+#navbar ul {
+    list-style: none;
+    float: right;
+}
