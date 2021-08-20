@@ -27,9 +27,9 @@ p {
 }
 /* Navigation */
 #navbar {
-    background: #082032;
+    background: #fff;
     overflow: auto;
-    color: #fff;
+    color: #082032;
 }
 #navbar a {
     color: #fff;
